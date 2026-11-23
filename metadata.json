@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow School",
+  "description": "Rainbow School (Kindergarten through Grade 10) — Admissions, Academics, Athletics, Official Accreditations, Campus Location, AI Doubt Assistant, and Student & Teacher Portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
